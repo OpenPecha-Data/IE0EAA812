@@ -1,9 +1,10 @@
-id: opecha:P000518
+id: P000518
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21743
   title: གནའ་གཏམ་མཐོང་བ་དགའ་སྐྱེད
-  volume:
+  author: ''
+  volumes:
     2462df8e8a2f4d89814bbca649eb1501:
       image_group_id: I1KG12584
       title: Volume 1 of mdo mang /
@@ -14,7 +15,6 @@ source_metadata:
       title: ''
       volume_number: 2
       total_pages: 756
-  author: ''
 ebook_metadata:
   title: གནའ་གཏམ་མཐོང་བ་དགའ་སྐྱེད
   author: ''
