@@ -1,5 +1,7 @@
 id: P000518
 initial_creation_type: ocr
+created_at: 24/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W21743
   title: གནའ་གཏམ་མཐོང་བ་དགའ་སྐྱེད
@@ -15,10 +17,3 @@ source_metadata:
       title: ''
       volume_number: 2
       total_pages: 756
-ebook_metadata:
-  title: གནའ་གཏམ་མཐོང་བ་དགའ་སྐྱེད
-  author: ''
-  sku: P000518
-  cover: cover.jpg
-  layers:
-  - pagination
